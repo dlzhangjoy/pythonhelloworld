@@ -11,7 +11,7 @@ python -m pip install numpy scipy matplotlib ipython jupyter pandas openpyxl sym
 ### 各个库功能介绍
 Pandas 表格容器  
 NumPy N维数组容器  
-SciPy 科学计算函数库   	
+SciPy 科学计算函数库   
 Matplotlib 画图    
 ## 2、安装开发工具
 ### vscode下载地址：https://code.visualstudio.com/

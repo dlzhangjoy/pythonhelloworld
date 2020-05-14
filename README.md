@@ -2,7 +2,8 @@
 ## 1、先安装python环境
 ### Python安装
 下载链接：https://www.python.org/  
-cmd命令行输入python -V看看是否安装成功  
+cmd命令行输入以下命令，看看是否安装成功  
+python -V
 ### 常用库安装
 cmd命令行输入  
 python -m pip install -U pip  
